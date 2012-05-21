@@ -1,5 +1,6 @@
 package de.hhu.bomberman;
 
+
 import java.awt.FlowLayout;
 import java.awt.Point;
 import java.awt.Toolkit;
@@ -116,4 +117,6 @@ class BombLabel extends JLabel {
 		super(bombIcon);
 	}
 }
+
+
 
