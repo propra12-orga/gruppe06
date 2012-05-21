@@ -1,5 +1,6 @@
 package de.hhu.bomberman;
 
+<<<<<<< HEAD
 import java.awt.FlowLayout;
 import java.awt.Point;
 import java.awt.Toolkit;
@@ -8,6 +9,18 @@ import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
+=======
+
+
+import java.awt.FlowLayout;
+import java.awt.Point;
+import java.awt.Toolkit;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+
+>>>>>>> 7753813ff6f856747312f564c94c8db6575dacea
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -115,5 +128,8 @@ class BombLabel extends JLabel {
 	public BombLabel() {
 		super(bombIcon);
 	}
+<<<<<<< HEAD
 }
 
+=======
+>>>>>>> 7753813ff6f856747312f564c94c8db6575dacea
