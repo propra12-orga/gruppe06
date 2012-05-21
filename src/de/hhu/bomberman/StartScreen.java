@@ -1,3 +1,4 @@
+
 package de.hhu.bomberman;
 
 import java.awt.BorderLayout;
@@ -48,3 +49,5 @@ public class StartScreen extends JDialog {
 		this.setModal(true);
 		this.setLocation(100, 100);
 	}
+}
+
