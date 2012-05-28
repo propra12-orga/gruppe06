@@ -6,7 +6,7 @@ import java.awt.Image;
 import javax.swing.JPanel;
 
 @SuppressWarnings("serial")
-class GamePanel extends JPanel { // klasse wegen hintergrundgrafik, >> ergänzen
+class GamePanel extends JPanel { // klasse wegen hintergrundgrafik, >> ergŠnzen
 	 
     private Image image;
 

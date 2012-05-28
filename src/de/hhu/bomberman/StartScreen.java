@@ -49,3 +49,5 @@ public class StartScreen extends JDialog {
 		this.setModal(true);
 		this.setLocation(100, 100);
 	}
+}
+
